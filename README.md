@@ -16,16 +16,18 @@ O banco é composto por 5 tabelas:
 
 ## 🔎 Queries propostas
  
-1. Listar o nome dos países que começam com a letra **B** e terminam com a letra **L**.
-2. Listar o nome dos pilotos dos países **Brasil**, **Itálai** e  **França**.
-3. Listar os nomes dos pilotos.
-4. Listar o nome dos GPs e a quantidade de voltas (usando `ALIAS`)
-5. Listar o nome dos pilotos e seus países.
-6. Inserir o atributo `salario` na tabela `pilotos`
-7. Popular o atributo `salario` da tabela `pilotos`.
-8. Listar o nome dos pilotos cujos salários estejam entre **70 e 100 mil**.
-9. Retornar, para cada `cod_pais`, a **média salarial** dos pilotos.
-10. Exibir todos os diferentes valores de salário da tabela `pilotos`, em **ordem crescente**.
+1. Inserir no mínimo **5 pilotos do Brasil**, **3 da Itália** e **2 da França**.
+2. Popular todas as tabelas.
+3. Listar o nome dos países que começam com a letra **B** e terminam com a letra **L**.
+4. Listar o nome dos pilotos dos países **Brasil**, **Itália** e **França**.
+5. Listar o nome dos pilotos.
+6. Listar o nome dos GPs e a quantidade de voltas (usando `ALIAS`).
+7. Listar o nome dos pilotos e seus países.
+8. Inserir o atributo `salario` na tabela `pilotos`.
+9. Popular o atributo `salario` da tabela `pilotos`.
+10. Listar o nome dos pilotos cujos salários estejam entre **70 e 100 mil**.
+11. Retornar, para cada `cod_pais`, a **média salarial** dos pilotos.
+12. Exibir todos os diferentes valores de salário da tabela `pilotos`, em **ordem crescente**.
 
 ## 🛠️ Tecnologias utilizadas
 
